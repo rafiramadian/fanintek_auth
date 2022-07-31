@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346381597410",
+    "project_id": "fanintekauth",
+    "storage_bucket": "fanintekauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346381597410:android:caadeb9d56b9f6d8f97cbb",
+        "android_client_info": {
+          "package_name": "com.example.fanintek_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346381597410-fq5e4hj6t8fk1668o0vt5ro44rjbj8sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrav7sNClpaN5F2nNnyRHtllVUtL3vVR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346381597410-fq5e4hj6t8fk1668o0vt5ro44rjbj8sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
